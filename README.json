@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T17:09:11Z",
+            "last_commit": "2026-08-15T18:07:32Z",
             "owner": "OpenXiangShan",
             "repo": "XiangShan",
-            "stars": 7191
+            "stars": 7193
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-31T05:59:04Z",
             "owner": "YosysHQ",
             "repo": "picorv32",
-            "stars": 4333
+            "stars": 4335
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-06-02T17:57:09Z",
             "owner": "chipsalliance",
             "repo": "rocket-chip",
-            "stars": 3844
+            "stars": 3845
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-02-11T09:06:28Z",
             "owner": "SpinalHDL",
             "repo": "VexRiscv",
-            "stars": 3221
+            "stars": 3222
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-14T23:08:00Z",
+            "last_commit": "2026-08-16T01:06:41Z",
             "owner": "openhwgroup",
             "repo": "cva6",
-            "stars": 3065
+            "stars": 3067
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-14T18:16:54Z",
             "owner": "stnolting",
             "repo": "neorv32",
-            "stars": 2233
+            "stars": 2234
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2026-08-11T16:08:10Z",
             "owner": "lowRISC",
             "repo": "ibex",
-            "stars": 2011
+            "stars": 2014
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-07-10T12:43:14Z",
             "owner": "olofk",
             "repo": "serv",
-            "stars": 1861
+            "stars": 1862
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-06-05T07:18:59Z",
             "owner": "OSCPU",
             "repo": "NutShell",
-            "stars": 1542
+            "stars": 1544
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2023-11-09T12:47:16Z",
             "owner": "liangkangnan",
             "repo": "tinyriscv",
-            "stars": 1509
+            "stars": 1510
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2021-09-18T17:41:41Z",
             "owner": "ultraembedded",
             "repo": "biriscv",
-            "stars": 1289
+            "stars": 1290
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2026-05-29T10:20:56Z",
             "owner": "openhwgroup",
             "repo": "cv32e40p",
-            "stars": 1274
+            "stars": 1275
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-02-25T17:35:46Z",
             "owner": "PrincetonUniversity",
             "repo": "openpiton",
-            "stars": 809
+            "stars": 810
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-07-19T12:38:43Z",
             "owner": "openhwgroup",
             "repo": "cvw",
-            "stars": 599
+            "stars": 600
           }
         },
         {
@@ -380,10 +380,10 @@
           "repo_info": {
             "archived": false,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-14T05:43:31Z",
+            "last_commit": "2026-08-15T05:56:06Z",
             "owner": "chipsalliance",
             "repo": "Cores-VeeR-EL2",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -394,10 +394,10 @@
           "repo_info": {
             "archived": false,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-14T05:43:31Z",
+            "last_commit": "2026-08-15T05:56:06Z",
             "owner": "chipsalliance",
             "repo": "Cores-VeeR-EL2",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2026-07-31T05:59:04Z",
             "owner": "YosysHQ",
             "repo": "picorv32",
-            "stars": 4333
+            "stars": 4335
           }
         },
         {
@@ -929,7 +929,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T22:14:09Z",
+            "last_commit": "2026-08-15T06:11:58Z",
             "owner": "ucb-bar",
             "repo": "chipyard",
             "stars": 2355
@@ -943,7 +943,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T15:10:03Z",
+            "last_commit": "2026-08-15T09:22:00Z",
             "owner": "YosysHQ",
             "repo": "nextpnr",
             "stars": 1728
@@ -1064,7 +1064,7 @@
             "last_commit": "2026-08-14T18:03:25Z",
             "owner": "qemu",
             "repo": "qemu",
-            "stars": 13569
+            "stars": 13575
           }
         },
         {
@@ -1075,10 +1075,10 @@
           "repo_info": {
             "archived": false,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-15T01:00:01Z",
+            "last_commit": "2026-08-15T11:08:58Z",
             "owner": "verilator",
             "repo": "verilator",
-            "stars": 3845
+            "stars": 3847
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "last_commit": "2026-07-23T07:19:42Z",
             "owner": "mortbopet",
             "repo": "Ripes",
-            "stars": 3379
+            "stars": 3381
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2026-08-14T23:22:29Z",
             "owner": "riscv-software-src",
             "repo": "riscv-isa-sim",
-            "stars": 3198
+            "stars": 3197
           }
         },
         {
@@ -1117,7 +1117,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:58:22Z",
+            "last_commit": "2026-08-15T23:53:50Z",
             "owner": "gem5",
             "repo": "gem5",
             "stars": 2755
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-08-14T16:15:07Z",
             "owner": "renode",
             "repo": "renode",
-            "stars": 2721
+            "stars": 2728
           }
         },
         {
@@ -1162,7 +1162,7 @@
             "last_commit": "2026-08-11T09:11:20Z",
             "owner": "olofk",
             "repo": "fusesoc",
-            "stars": 1449
+            "stars": 1450
           }
         },
         {
@@ -1294,7 +1294,7 @@
             "last_commit": "2026-04-03T15:17:27Z",
             "owner": "chipsalliance",
             "repo": "riscv-dv",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "last_commit": "2026-08-14T22:09:19Z",
             "owner": "riscv-software-src",
             "repo": "riscv-tests",
-            "stars": 1229
+            "stars": 1230
           }
         },
         {
@@ -1422,7 +1422,7 @@
             "last_commit": "2026-08-14T06:10:58Z",
             "owner": "riscv",
             "repo": "riscv-isa-manual",
-            "stars": 4757
+            "stars": 4759
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "last_commit": "2026-07-23T07:19:42Z",
             "owner": "mortbopet",
             "repo": "Ripes",
-            "stars": 3379
+            "stars": 3381
           }
         },
         {
@@ -1532,7 +1532,7 @@
             "last_commit": "2024-09-10T16:55:03Z",
             "owner": "freechipsproject",
             "repo": "chisel-bootcamp",
-            "stars": 1149
+            "stars": 1150
           }
         },
         {
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:39:27.379Z",
+    "last_updated": "2026-08-16T02:47:29.467Z",
     "original_repository": "suryakantamangaraj/awesome-riscv",
     "original_repository_sha": "e50eabb894114e280fd2274b402361666eb4d2ad",
     "enhanced_repository": "enhansome/enhansome-riscv",
