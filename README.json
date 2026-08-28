@@ -18,7 +18,8 @@
                 "owner": "bu-icsg",
                 "repo": "dana",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -36,11 +37,12 @@
                 "archived": false,
                 "id": 271929004,
                 "language": "Scala",
-                "last_commit": "2026-08-27T10:31:38Z",
+                "last_commit": "2026-08-28T11:35:34Z",
                 "owner": "OpenXiangShan",
                 "repo": "XiangShan",
-                "stars": 7216
-              }
+                "stars": 7221
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-07-31T05:59:04Z",
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4363
-              }
+                "stars": 4365
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -69,8 +72,9 @@
                 "last_commit": "2026-06-02T17:57:09Z",
                 "owner": "chipsalliance",
                 "repo": "rocket-chip",
-                "stars": 3851
-              }
+                "stars": 3852
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "SpinalHDL",
                 "repo": "VexRiscv",
                 "stars": 3232
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 118652371,
                 "language": "Assembly",
-                "last_commit": "2026-08-27T09:42:24Z",
+                "last_commit": "2026-08-28T10:43:12Z",
                 "owner": "openhwgroup",
                 "repo": "cva6",
-                "stars": 3083
-              }
+                "stars": 3085
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "SI-RISCV",
                 "repo": "e200_opensource",
                 "stars": 2851
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "darklife",
                 "repo": "darkriscv",
                 "stars": 2602
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "stnolting",
                 "repo": "neorv32",
                 "stars": 2243
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -156,11 +165,12 @@
                 "archived": false,
                 "id": 16110565,
                 "language": "Scala",
-                "last_commit": "2026-08-26T07:47:19Z",
+                "last_commit": "2026-08-27T22:48:51Z",
                 "owner": "riscv-boom",
                 "repo": "riscv-boom",
                 "stars": 2226
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "lowRISC",
                 "repo": "ibex",
                 "stars": 2027
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -189,8 +200,9 @@
                 "last_commit": "2026-08-25T12:38:55Z",
                 "owner": "olofk",
                 "repo": "serv",
-                "stars": 1875
-              }
+                "stars": 1876
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "OSCPU",
                 "repo": "NutShell",
                 "stars": 1545
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "liangkangnan",
                 "repo": "tinyriscv",
                 "stars": 1510
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -234,8 +248,9 @@
                 "last_commit": "2021-09-18T17:41:41Z",
                 "owner": "ultraembedded",
                 "repo": "biriscv",
-                "stars": 1294
-              }
+                "stars": 1296
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "openhwgroup",
                 "repo": "cv32e40p",
                 "stars": 1278
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "rsd-devel",
                 "repo": "rsd",
                 "stars": 1195
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "sifive",
                 "repo": "freedom",
                 "stars": 1147
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "syntacore",
                 "repo": "scr1",
                 "stars": 999
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -309,8 +328,9 @@
                 "last_commit": "2026-07-16T09:42:00Z",
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH1",
-                "stars": 963
-              }
+                "stars": 964
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,24 @@
                 "owner": "PrincetonUniversity",
                 "repo": "openpiton",
                 "stars": 810
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Sail RISC-V",
+              "description": "RISCV Sail Model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159356599,
+                "language": "Sail",
+                "last_commit": "2026-08-27T23:22:04Z",
+                "owner": "riscv",
+                "repo": "sail-riscv",
+                "stars": 756
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -340,22 +377,8 @@
                 "owner": "ucb-bar",
                 "repo": "riscv-sodor",
                 "stars": 754
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Sail RISC-V",
-              "description": "RISCV Sail Model.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 159356599,
-                "language": "Sail",
-                "last_commit": "2026-08-26T20:28:22Z",
-                "owner": "riscv",
-                "repo": "sail-riscv",
-                "stars": 752
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "ucb-bar",
                 "repo": "riscv-mini",
                 "stars": 619
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -381,11 +405,12 @@
                 "archived": false,
                 "id": 329806615,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-26T13:34:03Z",
+                "last_commit": "2026-08-27T13:35:23Z",
                 "owner": "openhwgroup",
                 "repo": "cvw",
                 "stars": 609
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "pulp-platform",
                 "repo": "pulp",
                 "stars": 566
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "RoaLogic",
                 "repo": "RV12",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -426,11 +453,12 @@
                 "archived": false,
                 "id": 232916517,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-27T12:01:01Z",
+                "last_commit": "2026-08-28T11:11:51Z",
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -441,11 +469,12 @@
                 "archived": false,
                 "id": 232916517,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-27T12:01:01Z",
+                "last_commit": "2026-08-28T11:11:51Z",
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "minerva-cpu",
                 "repo": "minerva",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH2",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -486,11 +517,12 @@
                 "archived": false,
                 "id": 123192307,
                 "language": "TL-Verilog",
-                "last_commit": "2026-08-26T20:34:00Z",
+                "last_commit": "2026-08-27T22:41:28Z",
                 "owner": "stevehoover",
                 "repo": "warp-v",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "risclite",
                 "repo": "SuperScalar-RISCV-CPU",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "rafaelcalcada",
                 "repo": "rvx",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -535,7 +569,8 @@
                 "owner": "Domipheus",
                 "repo": "RPU",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -550,7 +585,8 @@
                 "owner": "csail-csg",
                 "repo": "riscy-OOO",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -565,7 +601,8 @@
                 "owner": "onchipuis",
                 "repo": "mriscv",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -580,7 +617,8 @@
                 "owner": "t-crest",
                 "repo": "patmos",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -595,7 +633,8 @@
                 "owner": "PulseRain",
                 "repo": "Reindeer",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -610,7 +649,8 @@
                 "owner": "leros-dev",
                 "repo": "leros",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -625,7 +665,8 @@
                 "owner": "cornell-brg",
                 "repo": "lizard",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -640,7 +681,8 @@
                 "owner": "schoeberl",
                 "repo": "lipsi",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -655,7 +697,8 @@
                 "owner": "lcbcFoo",
                 "repo": "ReonV",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -670,7 +713,8 @@
                 "owner": "SonalPinto",
                 "repo": "kronos",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -685,7 +729,8 @@
                 "owner": "csail-csg",
                 "repo": "riscy",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -700,7 +745,8 @@
                 "owner": "pretis",
                 "repo": "flexpret",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -715,7 +761,8 @@
                 "owner": "tomverbeure",
                 "repo": "mr1",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -730,7 +777,8 @@
                 "owner": "adamwalker",
                 "repo": "clash-riscv",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -745,7 +793,8 @@
                 "owner": "featherweight-ip",
                 "repo": "fwrisc",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -760,7 +809,8 @@
                 "owner": "klessydra",
                 "repo": "T13x",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -775,7 +825,8 @@
                 "owner": "pulp-platform",
                 "repo": "bigpulp",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -790,7 +841,8 @@
                 "owner": "PulseRain",
                 "repo": "Rattlesnake",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -805,7 +857,8 @@
                 "owner": "klessydra",
                 "repo": "T02x",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -820,7 +873,8 @@
                 "owner": "Artoriuz",
                 "repo": "maestro",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -835,7 +889,8 @@
                 "owner": "klessydra",
                 "repo": "T03x",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -850,7 +905,8 @@
                 "owner": "atthecodeface",
                 "repo": "cdl_hardware",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -865,7 +921,8 @@
                 "owner": "klessydra",
                 "repo": "F03x",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -880,7 +937,8 @@
                 "owner": "mballance",
                 "repo": "fwrisc-s",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -895,7 +953,8 @@
                 "owner": "gws8820",
                 "repo": "RISCV-CPU",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": "Open source RISC-V cores with proper documentation.",
@@ -916,8 +975,9 @@
                 "last_commit": "2026-07-31T05:59:04Z",
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4363
-              }
+                "stars": 4365
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -932,7 +992,8 @@
                 "owner": "grahamedgecombe",
                 "repo": "icicle",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -947,7 +1008,8 @@
                 "owner": "efabless",
                 "repo": "raven-picorv32",
                 "stars": 297
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1024,8 @@
                 "owner": "IObundle",
                 "repo": "iob-soc",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1040,8 @@
                 "owner": "AleksandarKostovic",
                 "repo": "Riscy-SoC",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": "A curated list of RISC-V SoCs, available as open sources.",
@@ -1004,8 +1068,9 @@
                 "last_commit": "2026-08-27T08:56:43Z",
                 "owner": "riscv-collab",
                 "repo": "riscv-gnu-toolchain",
-                "stars": 4593
-              }
+                "stars": 4595
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1019,8 +1084,9 @@
                 "last_commit": "2026-08-19T06:11:29Z",
                 "owner": "ucb-bar",
                 "repo": "chipyard",
-                "stars": 2366
-              }
+                "stars": 2369
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1034,8 +1100,9 @@
                 "last_commit": "2026-08-27T11:40:36Z",
                 "owner": "YosysHQ",
                 "repo": "nextpnr",
-                "stars": 1735
-              }
+                "stars": 1736
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1050,7 +1117,8 @@
                 "owner": "pulp-platform",
                 "repo": "pulpino",
                 "stars": 1062
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1065,7 +1133,8 @@
                 "owner": "chipsalliance",
                 "repo": "firrtl",
                 "stars": 747
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1080,7 +1149,8 @@
                 "owner": "lowRISC",
                 "repo": "lowrisc-chip",
                 "stars": 601
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1095,7 +1165,8 @@
                 "owner": "pulp-platform",
                 "repo": "pulpissimo",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1181,8 @@
                 "owner": "westerndigitalcorporation",
                 "repo": "RISC-V-Linux",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1125,7 +1197,8 @@
                 "owner": "chipsalliance",
                 "repo": "treadle",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1213,8 @@
                 "owner": "TypingKoala",
                 "repo": "FPGA-Tool-Performance-Visualization-Library",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -1158,11 +1232,12 @@
                 "archived": false,
                 "id": 34695562,
                 "language": "Scala",
-                "last_commit": "2026-08-23T11:10:44Z",
+                "last_commit": "2026-08-27T22:45:24Z",
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4763
-              }
+                "stars": 4764
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -1180,11 +1255,12 @@
                 "archived": false,
                 "id": 5383731,
                 "language": "C",
-                "last_commit": "2026-08-27T04:33:41Z",
+                "last_commit": "2026-08-27T19:54:20Z",
                 "owner": "qemu",
                 "repo": "qemu",
-                "stars": 13633
-              }
+                "stars": 13636
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1195,11 +1271,12 @@
                 "archived": false,
                 "id": 191842184,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-27T11:53:02Z",
+                "last_commit": "2026-08-27T12:33:49Z",
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3877
-              }
+                "stars": 3883
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1214,7 +1291,8 @@
                 "owner": "mortbopet",
                 "repo": "Ripes",
                 "stars": 3389
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1225,11 +1303,28 @@
                 "archived": false,
                 "id": 2276287,
                 "language": "C",
-                "last_commit": "2026-08-27T02:25:12Z",
+                "last_commit": "2026-08-27T23:12:29Z",
                 "owner": "riscv-software-src",
                 "repo": "riscv-isa-sim",
                 "stars": 3208
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Renode",
+              "description": "Antmicro's open-source simulation framework with excellent RISC-V support; ideal for embedded and multi-core prototyping.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95903234,
+                "language": "RobotFramework",
+                "last_commit": "2026-08-27T12:38:44Z",
+                "owner": "renode",
+                "repo": "renode",
+                "stars": 2786
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1243,23 +1338,9 @@
                 "last_commit": "2026-08-27T01:57:00Z",
                 "owner": "gem5",
                 "repo": "gem5",
-                "stars": 2772
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Renode",
-              "description": "Antmicro's open-source simulation framework with excellent RISC-V support; ideal for embedded and multi-core prototyping.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 95903234,
-                "language": "RobotFramework",
-                "last_commit": "2026-08-27T11:44:16Z",
-                "owner": "renode",
-                "repo": "renode",
-                "stars": 2771
-              }
+                "stars": 2774
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1274,7 +1355,8 @@
                 "owner": "TheThirdOne",
                 "repo": "rars",
                 "stars": 1618
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1289,7 +1371,8 @@
                 "owner": "olofk",
                 "repo": "fusesoc",
                 "stars": 1453
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1300,11 +1383,12 @@
                 "archived": false,
                 "id": 133268556,
                 "language": "Scala",
-                "last_commit": "2026-06-26T01:50:55Z",
+                "last_commit": "2026-08-28T01:13:17Z",
                 "owner": "firesim",
                 "repo": "firesim",
-                "stars": 1036
-              }
+                "stars": 1037
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1319,7 +1403,8 @@
                 "owner": "chipsalliance",
                 "repo": "dromajo",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1334,7 +1419,8 @@
                 "owner": "westerndigitalcorporation",
                 "repo": "swerv-ISS",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1349,7 +1435,8 @@
                 "owner": "Mariotti94",
                 "repo": "WebRISC-V",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1364,7 +1451,8 @@
                 "owner": "CSL-KU",
                 "repo": "firesim-nvdla",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1379,7 +1467,8 @@
                 "owner": "GreenWaves-Technologies",
                 "repo": "gap_sdk",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1394,7 +1483,8 @@
                 "owner": "nbdd0121",
                 "repo": "TLBSim",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1409,7 +1499,8 @@
                 "owner": "openhwgroup",
                 "repo": "riscv_vm",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": "Open source Emulators and Simulators for designing and testing RISC-V systems.",
@@ -1431,7 +1522,8 @@
                 "owner": "chipsalliance",
                 "repo": "riscv-dv",
                 "stars": 1350
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1445,8 +1537,9 @@
                 "last_commit": "2026-08-14T22:09:19Z",
                 "owner": "riscv-software-src",
                 "repo": "riscv-tests",
-                "stars": 1236
-              }
+                "stars": 1238
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1461,7 +1554,8 @@
                 "owner": "SymbioticEDA",
                 "repo": "riscv-formal",
                 "stars": 634
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1476,7 +1570,8 @@
                 "owner": "ucb-bar",
                 "repo": "riscv-torture",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1491,7 +1586,8 @@
                 "owner": "chipsalliance",
                 "repo": "uvm-verilator",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1506,7 +1602,8 @@
                 "owner": "freechipsproject",
                 "repo": "chisel-testers",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1521,7 +1618,8 @@
                 "owner": "riscv-boom",
                 "repo": "boom-attacks",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1536,7 +1634,8 @@
                 "owner": "CTSRD-CHERI",
                 "repo": "axe",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -1564,7 +1663,8 @@
                 "owner": "cnrv",
                 "repo": "riscv-notes",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -1585,8 +1685,9 @@
                 "last_commit": "2026-08-26T18:53:06Z",
                 "owner": "riscv",
                 "repo": "riscv-isa-manual",
-                "stars": 4787
-              }
+                "stars": 4789
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1601,7 +1702,8 @@
                 "owner": "schoeberl",
                 "repo": "chisel-book",
                 "stars": 929
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1616,7 +1718,8 @@
                 "owner": "johnwinans",
                 "repo": "rvalp",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -1638,7 +1741,8 @@
                 "owner": "mortbopet",
                 "repo": "Ripes",
                 "stars": 3389
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1653,7 +1757,8 @@
                 "owner": "mrLSD",
                 "repo": "riscv-fs",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1668,7 +1773,8 @@
                 "owner": "freechipsproject",
                 "repo": "chisel-cheatsheet",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -1686,11 +1792,12 @@
                 "archived": false,
                 "id": 34695562,
                 "language": "Scala",
-                "last_commit": "2026-08-23T11:10:44Z",
+                "last_commit": "2026-08-27T22:45:24Z",
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4763
-              }
+                "stars": 4764
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1705,7 +1812,8 @@
                 "owner": "freechipsproject",
                 "repo": "chisel-bootcamp",
                 "stars": 1150
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1720,7 +1828,8 @@
                 "owner": "cnrv",
                 "repo": "rocket-chip-read",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1735,7 +1844,8 @@
                 "owner": "Intensivate",
                 "repo": "learning-journey",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1750,7 +1860,8 @@
                 "owner": "librecores",
                 "repo": "riscv-sodor",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             },
             {
               "node_type": "item",
@@ -1765,7 +1876,8 @@
                 "owner": "iamrk-vlsi",
                 "repo": "RISC-V-MYTH-Workshop",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:23:57.601Z"
             }
           ],
           "description": null,
@@ -1777,7 +1889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:01.427Z",
+    "last_updated": "2026-08-28T13:23:57.601Z",
     "original_repository_info": {
       "archived": false,
       "id": 293227965,
