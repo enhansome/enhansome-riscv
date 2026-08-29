@@ -53,11 +53,11 @@
                 "id": 271929004,
                 "language": "Scala",
                 "license": "MulanPSL-2.0",
-                "last_commit": "2026-08-29T01:23:59Z",
+                "last_commit": "2026-08-29T07:27:03Z",
                 "open_issues": 268,
                 "owner": "OpenXiangShan",
                 "repo": "XiangShan",
-                "stars": 7223,
+                "stars": 7224,
                 "topics": [
                   "chisel",
                   "microarchitecture",
@@ -242,8 +242,8 @@
                 "id": 274442284,
                 "language": "VHDL",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-22T05:33:20Z",
-                "open_issues": 11,
+                "last_commit": "2026-08-29T06:57:43Z",
+                "open_issues": 10,
                 "owner": "stnolting",
                 "repo": "neorv32",
                 "stars": 2244,
@@ -308,7 +308,7 @@
                 "open_issues": 251,
                 "owner": "lowRISC",
                 "repo": "ibex",
-                "stars": 2027,
+                "stars": 2028,
                 "topics": [
                   "cpucore",
                   "hardware",
@@ -359,10 +359,10 @@
                 "language": "Scala",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-18T05:03:42Z",
-                "open_issues": 76,
+                "open_issues": 81,
                 "owner": "OSCPU",
                 "repo": "NutShell",
-                "stars": 1545,
+                "stars": 1544,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -464,7 +464,7 @@
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T07:25:09Z",
-                "open_issues": 24,
+                "open_issues": 28,
                 "owner": "rsd-devel",
                 "repo": "rsd",
                 "stars": 1195,
@@ -602,10 +602,10 @@
                 "language": "Sail",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:29:21Z",
-                "open_issues": 249,
+                "open_issues": 250,
                 "owner": "riscv",
                 "repo": "sail-riscv",
-                "stars": 756,
+                "stars": 757,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -1930,7 +1930,7 @@
                 "open_issues": 0,
                 "owner": "qemu",
                 "repo": "qemu",
-                "stars": 13640,
+                "stars": 13641,
                 "topics": [
                   "emulation",
                   "qemu",
@@ -1955,7 +1955,7 @@
                 "open_issues": 308,
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3884,
+                "stars": 3885,
                 "topics": [
                   "compilers",
                   "cpp",
@@ -2015,7 +2015,7 @@
                 "open_issues": 402,
                 "owner": "riscv-software-src",
                 "repo": "riscv-isa-sim",
-                "stars": 3208,
+                "stars": 3209,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -2036,7 +2036,7 @@
                 "open_issues": 429,
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2790,
+                "stars": 2791,
                 "topics": [
                   "arm",
                   "embedded-systems",
@@ -2869,7 +2869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:30.900Z",
+    "last_updated": "2026-08-29T08:18:59.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "RISC-V: Open-source instruction set architecture based on reduced instruction set computer principles.",
