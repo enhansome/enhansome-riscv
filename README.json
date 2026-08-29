@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel",
+                "homepage": null,
                 "id": 52231381,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-23T13:33:23Z",
+                "open_issues": 24,
                 "owner": "bu-icsg",
                 "repo": "dana",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "chisel",
+                  "hardware",
+                  "neural-network",
+                  "riscv",
+                  "rocc",
+                  "rocket-chip",
+                  "rtl"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -35,12 +48,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source high-performance RISC-V processor",
+                "homepage": "https://xiangshan.cc",
                 "id": 271929004,
                 "language": "Scala",
-                "last_commit": "2026-08-28T11:35:34Z",
+                "license": "MulanPSL-2.0",
+                "last_commit": "2026-08-29T01:23:59Z",
+                "open_issues": 268,
                 "owner": "OpenXiangShan",
                 "repo": "XiangShan",
-                "stars": 7221
+                "stars": 7223,
+                "topics": [
+                  "chisel",
+                  "microarchitecture",
+                  "risc-v"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -51,12 +73,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+                "homepage": null,
                 "id": 36978369,
                 "language": "Verilog",
+                "license": "ISC",
                 "last_commit": "2026-07-31T05:59:04Z",
+                "open_issues": 87,
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4365
+                "stars": 4365,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -67,12 +94,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rocket Chip Generator",
+                "homepage": null,
                 "id": 23950406,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-02T17:57:09Z",
+                "open_issues": 344,
                 "owner": "chipsalliance",
                 "repo": "rocket-chip",
-                "stars": 3852
+                "stars": 3852,
+                "topics": [
+                  "chip-generator",
+                  "chisel",
+                  "riscv",
+                  "rocket-chip",
+                  "rtl",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -83,12 +122,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
+                "homepage": null,
                 "id": 84366787,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2026-02-11T09:06:28Z",
+                "open_issues": 132,
                 "owner": "SpinalHDL",
                 "repo": "VexRiscv",
-                "stars": 3232
+                "stars": 3232,
+                "topics": [
+                  "cpu",
+                  "fpga",
+                  "riscv",
+                  "soc",
+                  "softcore",
+                  "spinalhdl",
+                  "verilog",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -99,12 +152,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+                "homepage": "https://docs.openhwgroup.org/projects/cva6-user-manual/",
                 "id": 118652371,
                 "language": "Assembly",
-                "last_commit": "2026-08-28T10:43:12Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:20:41Z",
+                "open_issues": 286,
                 "owner": "openhwgroup",
                 "repo": "cva6",
-                "stars": 3085
+                "stars": 3086,
+                "topics": [
+                  "ariane",
+                  "asic",
+                  "cpu",
+                  "fpga",
+                  "risc-v",
+                  "rv64gc",
+                  "systemverilog-hdl"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -115,12 +181,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deprecated, please go to next generation Ultra-Low Power RISC-V Core https://github.com/riscv-mcu/e203_hbirdv2",
+                "homepage": "https://github.com/riscv-mcu/e203_hbirdv2",
                 "id": 98553575,
                 "language": "Verilog",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-24T09:38:39Z",
+                "open_issues": 33,
                 "owner": "SI-RISCV",
                 "repo": "e200_opensource",
-                "stars": 2851
+                "stars": 2851,
+                "topics": [
+                  "china",
+                  "core",
+                  "cpu",
+                  "nuclei",
+                  "risc-v",
+                  "ultra-low-power",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -131,12 +210,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "opensouce RISC-V cpu core implemented in Verilog from scratch in one night!",
+                "homepage": null,
                 "id": 145329615,
                 "language": "Verilog",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-12T04:31:28Z",
+                "open_issues": 5,
                 "owner": "darklife",
                 "repo": "darkriscv",
-                "stars": 2602
+                "stars": 2601,
+                "topics": [
+                  "core",
+                  "fpga",
+                  "risc-v",
+                  "riscv",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -147,12 +237,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+                "homepage": "https://stnolting.github.io/neorv32/",
                 "id": 274442284,
                 "language": "VHDL",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-22T05:33:20Z",
+                "open_issues": 11,
                 "owner": "stnolting",
                 "repo": "neorv32",
-                "stars": 2243
+                "stars": 2244,
+                "topics": [
+                  "asic",
+                  "cpu",
+                  "fpga",
+                  "microcontroller",
+                  "processor",
+                  "risc-v",
+                  "soc",
+                  "soft-core",
+                  "verilog",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -163,12 +269,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SonicBOOM: The Berkeley Out-of-Order Machine",
+                "homepage": null,
                 "id": 16110565,
                 "language": "Scala",
-                "last_commit": "2026-08-27T22:48:51Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T03:28:53Z",
+                "open_issues": 167,
                 "owner": "riscv-boom",
                 "repo": "riscv-boom",
-                "stars": 2226
+                "stars": 2226,
+                "topics": [
+                  "berkeley",
+                  "boom",
+                  "chisel",
+                  "riscv",
+                  "riscv-boom",
+                  "rocket-chip",
+                  "rtl",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -179,12 +299,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+                "homepage": "https://www.lowrisc.org",
                 "id": 99689233,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T21:41:31Z",
+                "open_issues": 251,
                 "owner": "lowRISC",
                 "repo": "ibex",
-                "stars": 2027
+                "stars": 2027,
+                "topics": [
+                  "cpucore",
+                  "hardware",
+                  "lowrisc",
+                  "lowrisc-ibex",
+                  "risc-v",
+                  "rv32"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -195,12 +327,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SERV - The SErial RISC-V CPU",
+                "homepage": null,
                 "id": 155514739,
                 "language": "Verilog",
+                "license": "ISC",
                 "last_commit": "2026-08-25T12:38:55Z",
+                "open_issues": 35,
                 "owner": "olofk",
                 "repo": "serv",
-                "stars": 1876
+                "stars": 1876,
+                "topics": [
+                  "asic",
+                  "fpga",
+                  "risc-v",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -211,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V SoC designed by students in UCAS",
+                "homepage": "https://oscpu.github.io/NutShell-doc/",
                 "id": 277755301,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T05:03:42Z",
+                "open_issues": 76,
                 "owner": "OSCPU",
                 "repo": "NutShell",
-                "stars": 1545
+                "stars": 1545,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -227,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple and easy to understand RISC-V core.",
+                "homepage": null,
                 "id": 226844803,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-09T12:47:16Z",
+                "open_issues": 9,
                 "owner": "liangkangnan",
                 "repo": "tinyriscv",
-                "stars": 1510
+                "stars": 1511,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -243,12 +395,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "32-bit Superscalar RISC-V CPU",
+                "homepage": null,
                 "id": 239628306,
                 "language": "Verilog",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-18T17:41:41Z",
+                "open_issues": 21,
                 "owner": "ultraembedded",
                 "repo": "biriscv",
-                "stars": 1296
+                "stars": 1296,
+                "topics": [
+                  "artix-7",
+                  "asic",
+                  "branch-prediction",
+                  "coremark",
+                  "cpu",
+                  "fpga",
+                  "in-order",
+                  "linux",
+                  "pipelined-processors",
+                  "risc-v",
+                  "riscv-linux",
+                  "rv32i",
+                  "rv32im",
+                  "superscalar",
+                  "verilator",
+                  "verilog",
+                  "xilinx"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -259,12 +434,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform",
+                "homepage": "https://docs.openhwgroup.org/projects/cv32e40p-user-manual/en/latest",
                 "id": 52028445,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T13:01:14Z",
+                "open_issues": 76,
                 "owner": "openhwgroup",
                 "repo": "cv32e40p",
-                "stars": 1278
+                "stars": 1278,
+                "topics": [
+                  "riscv",
+                  "riscv32imfc"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -275,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSD: RISC-V Out-of-Order Superscalar Processor",
+                "homepage": null,
                 "id": 227267635,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T07:25:09Z",
+                "open_issues": 24,
                 "owner": "rsd-devel",
                 "repo": "rsd",
-                "stars": 1195
+                "stars": 1195,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -291,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Source files for SiFive's Freedom platforms",
+                "homepage": null,
                 "id": 74623914,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-17T18:54:09Z",
+                "open_issues": 70,
                 "owner": "sifive",
                 "repo": "freedom",
-                "stars": 1147
+                "stars": 1147,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -307,12 +500,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SCR1 is a high-quality open-source RISC-V MCU core in Verilog",
+                "homepage": null,
                 "id": 90702468,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-15T14:23:23Z",
+                "open_issues": 2,
                 "owner": "syntacore",
                 "repo": "scr1",
-                "stars": 999
+                "stars": 999,
+                "topics": [
+                  "core",
+                  "ip",
+                  "risc-v",
+                  "riscv",
+                  "rtl",
+                  "rv32e",
+                  "rv32emc",
+                  "rv32i",
+                  "rv32imc",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -323,12 +532,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VeeR EH1 core",
+                "homepage": "https://chipsalliance.github.io/Cores-VeeR-EH1",
                 "id": 189812971,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T09:42:00Z",
+                "open_issues": 28,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH1",
-                "stars": 964
+                "stars": 965,
+                "topics": [
+                  "ahb-lite",
+                  "asic-design",
+                  "axi4",
+                  "fpga",
+                  "fusesoc",
+                  "open-source-hardware",
+                  "processor",
+                  "risc",
+                  "risc-v",
+                  "riscv",
+                  "riscv32",
+                  "rtl",
+                  "veer",
+                  "verilator",
+                  "western-digital"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -339,12 +569,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OpenPiton Platform",
+                "homepage": "http://www.openpiton.org",
                 "id": 71383783,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2026-02-25T17:35:46Z",
+                "open_issues": 61,
                 "owner": "PrincetonUniversity",
                 "repo": "openpiton",
-                "stars": 810
+                "stars": 810,
+                "topics": [
+                  "fpga",
+                  "processor",
+                  "python",
+                  "research-platform",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -355,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sail RISC-V model",
+                "homepage": "https://lists.riscv.org/g/tech-golden-model",
                 "id": 159356599,
                 "language": "Sail",
-                "last_commit": "2026-08-27T23:22:04Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:29:21Z",
+                "open_issues": 249,
                 "owner": "riscv",
                 "repo": "sail-riscv",
-                "stars": 756
+                "stars": 756,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -371,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "educational microarchitectures for risc-v isa",
+                "homepage": null,
                 "id": 11488873,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-01T21:19:29Z",
+                "open_issues": 15,
                 "owner": "ucb-bar",
                 "repo": "riscv-sodor",
-                "stars": 754
+                "stars": 754,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -387,12 +638,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple RISC-V 3-stage Pipeline in Chisel",
+                "homepage": null,
                 "id": 69501272,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-09T03:49:54Z",
+                "open_issues": 8,
                 "owner": "ucb-bar",
                 "repo": "riscv-mini",
-                "stars": 619
+                "stars": 619,
+                "topics": [
+                  "chisel",
+                  "riscv",
+                  "rtl"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -403,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+                "homepage": null,
                 "id": 329806615,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-27T13:35:23Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T13:33:46Z",
+                "open_issues": 32,
                 "owner": "openhwgroup",
                 "repo": "cvw",
-                "stars": 609
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -419,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the top-level project for the PULP Platform. It instantiates a PULP open-source system with a PULP SoC (microcontroller) domain accelerated by a PULP cluster with 8 cores.",
+                "homepage": null,
                 "id": 122994841,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-26T08:28:19Z",
+                "open_issues": 39,
                 "owner": "pulp-platform",
                 "repo": "pulp",
-                "stars": 566
+                "stars": 566,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -435,12 +705,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V CPU Core",
+                "homepage": null,
                 "id": 78653596,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-24T20:44:51Z",
+                "open_issues": 6,
                 "owner": "RoaLogic",
                 "repo": "RV12",
-                "stars": 445
+                "stars": 445,
+                "topics": [
+                  "32-bit",
+                  "64bit",
+                  "cpu",
+                  "risc-v"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -451,12 +731,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VeeR EL2 Core",
+                "homepage": "https://chipsalliance.github.io/Cores-VeeR-EL2/html/main/docs_rendered/html/index.html",
                 "id": 232916517,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-28T11:11:51Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:52:23Z",
+                "open_issues": 58,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "ahb-lite",
+                  "asic-design",
+                  "axi4",
+                  "el2",
+                  "fpga",
+                  "fusesoc",
+                  "open-source-hardware",
+                  "processor",
+                  "risc-v",
+                  "riscv",
+                  "riscv32",
+                  "rtl",
+                  "verilator",
+                  "western-digital"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -467,12 +767,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VeeR EL2 Core",
+                "homepage": "https://chipsalliance.github.io/Cores-VeeR-EL2/html/main/docs_rendered/html/index.html",
                 "id": 232916517,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-28T11:11:51Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:52:23Z",
+                "open_issues": 58,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "ahb-lite",
+                  "asic-design",
+                  "axi4",
+                  "el2",
+                  "fpga",
+                  "fusesoc",
+                  "open-source-hardware",
+                  "processor",
+                  "risc-v",
+                  "riscv",
+                  "riscv32",
+                  "rtl",
+                  "verilator",
+                  "western-digital"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -483,12 +803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 32-bit RISC-V soft processor",
+                "homepage": null,
                 "id": 167410158,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-26T21:02:56Z",
+                "open_issues": 3,
                 "owner": "minerva-cpu",
                 "repo": "minerva",
-                "stars": 327
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -499,12 +824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VeeR EH2 core",
+                "homepage": "https://chipsalliance.github.io/Cores-VeeR-EH2",
                 "id": 232916099,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T15:09:09Z",
+                "open_issues": 16,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH2",
-                "stars": 276
+                "stars": 276,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -515,12 +845,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WARP-V is an open-source RISC-V CPU core generator written in TL-Verilog.",
+                "homepage": "https://warp-v.org",
                 "id": 123192307,
                 "language": "TL-Verilog",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T22:41:28Z",
+                "open_issues": 17,
                 "owner": "stevehoover",
                 "repo": "warp-v",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -531,12 +866,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SSRV(Super-Scalar RISC-V) --- Super-scalar out-of-order RV32IMC CPU core, 6.4 CoreMark/MHz.",
+                "homepage": null,
                 "id": 188172879,
                 "language": "SystemVerilog",
+                "license": null,
                 "last_commit": "2020-08-25T01:58:31Z",
+                "open_issues": 3,
                 "owner": "risclite",
                 "repo": "SuperScalar-RISCV-CPU",
-                "stars": 236
+                "stars": 236,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -547,12 +887,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V microcontroller for embedded, FPGA and ASIC applications",
+                "homepage": "https://rafaelcalcada.github.io/rvx/",
                 "id": 261005281,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2026-08-11T21:38:17Z",
+                "open_issues": 1,
                 "owner": "rafaelcalcada",
                 "repo": "rvx",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "core",
+                  "cpu",
+                  "gpio",
+                  "i2c",
+                  "mcu",
+                  "microcontroller",
+                  "processor",
+                  "risc-v",
+                  "riscv",
+                  "rv32i",
+                  "rvx",
+                  "spi",
+                  "system-on-chip",
+                  "uart",
+                  "zicsr"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -563,12 +924,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic RISC-V CPU implementation in VHDL.",
+                "homepage": "http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-15-introducing-rpu/",
                 "id": 148385735,
                 "language": "VHDL",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-13T21:02:10Z",
+                "open_issues": 1,
                 "owner": "Domipheus",
                 "repo": "RPU",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "apache2-license",
+                  "cpu",
+                  "fpga",
+                  "risc-v",
+                  "riscv",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -579,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RiscyOO: RISC-V Out-of-Order Processor",
+                "homepage": null,
                 "id": 89828651,
                 "language": "Bluespec",
+                "license": "MIT",
                 "last_commit": "2020-07-03T10:54:49Z",
+                "open_issues": 3,
                 "owner": "csail-csg",
                 "repo": "riscy-OOO",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -595,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 32-bit Microcontroller featuring a RISC-V core",
+                "homepage": null,
                 "id": 67840294,
                 "language": "Verilog",
+                "license": "NOASSERTION",
                 "last_commit": "2018-02-28T14:21:51Z",
+                "open_issues": 1,
                 "owner": "onchipuis",
                 "repo": "mriscv",
-                "stars": 164
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -611,12 +994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patmos is a time-predictable VLIW processor, and the processor for the T-CREST project",
+                "homepage": "http://patmos.compute.dtu.dk",
                 "id": 1500522,
                 "language": "VHDL",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-07-25T14:13:58Z",
+                "open_issues": 26,
                 "owner": "t-crest",
                 "repo": "patmos",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -627,12 +1015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PulseRain Reindeer - RISCV RV32I[M] Soft CPU",
+                "homepage": null,
                 "id": 158824477,
                 "language": "Verilog",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-28T04:51:27Z",
+                "open_issues": 5,
                 "owner": "PulseRain",
                 "repo": "Reindeer",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -643,12 +1036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tiny Processor Core",
+                "homepage": "https://leros-dev.github.io/",
                 "id": 1501815,
                 "language": "VHDL",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-07-14T15:09:44Z",
+                "open_issues": 3,
                 "owner": "leros-dev",
                 "repo": "leros",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -659,12 +1057,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cornell CSL's Modular RISC-V RV64IM Out-of-Order Processor Built with PyMTL",
+                "homepage": null,
                 "id": 149631995,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-07-29T02:05:13Z",
+                "open_issues": 1,
                 "owner": "cornell-brg",
                 "repo": "lizard",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -675,12 +1078,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lipsi: Probably the Smallest Processor in the World",
+                "homepage": null,
                 "id": 106610557,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-15T20:59:45Z",
+                "open_issues": 3,
                 "owner": "schoeberl",
                 "repo": "lipsi",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "hardware",
+                  "processor"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -691,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReonV is a modified version of the Leon3, a synthesisable VHDL model of a 32-bit processor originally compliant with the SPARC V8 architecture, now changed to RISC-V ISA.",
+                "homepage": null,
                 "id": 102369553,
                 "language": "VHDL",
+                "license": "GPL-3.0",
                 "last_commit": "2022-10-01T01:16:06Z",
+                "open_issues": 7,
                 "owner": "lcbcFoo",
                 "repo": "ReonV",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -707,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kronos is a 3-stage in-order RISC-V RV32I_Zicsr_Zifencei core geared towards FPGA implementations",
+                "homepage": "https://sonalpinto.github.io/kronos/#/",
                 "id": 236384260,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-15T08:02:43Z",
+                "open_issues": 24,
                 "owner": "SonalPinto",
                 "repo": "kronos",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -723,12 +1144,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Riscy Processors - Open-Sourced RISC-V Processors",
+                "homepage": null,
                 "id": 62905600,
                 "language": "Bluespec",
+                "license": "MIT",
                 "last_commit": "2019-04-04T20:37:36Z",
+                "open_issues": 1,
                 "owner": "csail-csg",
                 "repo": "riscy",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "riscv"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -739,12 +1167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A time-predictable processor for mixed-criticality systems",
+                "homepage": null,
                 "id": 18736338,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-11-07T23:41:39Z",
+                "open_issues": 15,
                 "owner": "pretis",
                 "repo": "flexpret",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -755,12 +1188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MR1 formally verified RISC-V CPU",
+                "homepage": "https://tomverbeure.github.io/risc-v/2018/11/19/A-Bug-Free-RISC-V-Core-without-Simulation.html",
                 "id": 145071013,
                 "language": "Scala",
+                "license": "Unlicense",
                 "last_commit": "2018-12-16T19:42:59Z",
+                "open_issues": 0,
                 "owner": "tomverbeure",
                 "repo": "mr1",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -771,12 +1209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RiscV processor implementing the RV32I instruction set written in Clash",
+                "homepage": null,
                 "id": 77769459,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-04-11T12:56:35Z",
+                "open_issues": 1,
                 "owner": "adamwalker",
                 "repo": "clash-riscv",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -787,12 +1230,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Featherweight RISC-V implementation",
+                "homepage": null,
                 "id": 155328026,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-17T17:23:23Z",
+                "open_issues": 2,
                 "owner": "featherweight-ip",
                 "repo": "fwrisc",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "risc-v",
+                  "verilog",
+                  "zephyr"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -803,12 +1255,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " An Extended Version of the T0x multithreaded cores, with a custom general purpose parametrized SIMD/MIMD vector coprocessor and support for 3-5 way superscalar execution. The core is pin-to-pin compatible with the RISCY cores from PULP",
+                "homepage": null,
                 "id": 134585153,
                 "language": "VHDL",
+                "license": null,
                 "last_commit": "2024-08-24T10:53:57Z",
+                "open_issues": 0,
                 "owner": "klessydra",
                 "repo": "T13x",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "accelerator",
+                  "klessydra",
+                  "mimd",
+                  "pulpino",
+                  "riscv",
+                  "simd",
+                  "superscalar",
+                  "t02x",
+                  "t03x",
+                  "t13x",
+                  "vector-processor"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -819,12 +1288,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⛔ DEPRECATED ⛔ RISC-V manycore accelerator for HERO, bigPULP hardware platform",
+                "homepage": null,
                 "id": 148470875,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-06T10:24:44Z",
+                "open_issues": 8,
                 "owner": "pulp-platform",
                 "repo": "bigpulp",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -835,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PulseRain Rattlesnake - RISCV RV32IMC Soft CPU ",
+                "homepage": null,
                 "id": 199262941,
                 "language": "VHDL",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-03T05:25:09Z",
+                "open_issues": 0,
                 "owner": "PulseRain",
                 "repo": "Rattlesnake",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -851,12 +1330,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-threaded microprocessor interleaving as minimum two threads, which is pin-to-pin  compatible with pulpino riscy cores",
+                "homepage": null,
                 "id": 132146298,
                 "language": "VHDL",
+                "license": null,
                 "last_commit": "2024-08-24T10:56:47Z",
+                "open_issues": 0,
                 "owner": "klessydra",
                 "repo": "T02x",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "klessydra",
+                  "pulpino",
+                  "riscv",
+                  "t02x",
+                  "t03x",
+                  "t13x"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -867,12 +1358,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A 5 stage-pipeline RV32I implementation in VHDL",
+                "homepage": null,
                 "id": 207928590,
                 "language": "VHDL",
+                "license": "MIT",
                 "last_commit": "2020-03-13T00:45:18Z",
+                "open_issues": 1,
                 "owner": "Artoriuz",
                 "repo": "maestro",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -883,12 +1379,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-threaded microprocessor interleaving as minimum three threads, which is pin-to-pin compatible with pulpino riscy cores ",
+                "homepage": null,
                 "id": 132146890,
                 "language": "VHDL",
+                "license": null,
                 "last_commit": "2025-07-04T08:29:16Z",
+                "open_issues": 1,
                 "owner": "klessydra",
                 "repo": "T03x",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "klessydra",
+                  "pulpino",
+                  "riscv",
+                  "t02x",
+                  "t03x",
+                  "t13x"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -899,12 +1407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CDL Hardware implementations; BBC microcomputer, RISC-V (numerous), frame buffers, JTAG, etc",
+                "homepage": null,
                 "id": 80228884,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-20T16:59:59Z",
+                "open_issues": 1,
                 "owner": "atthecodeface",
                 "repo": "cdl_hardware",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -915,12 +1428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fault tolerant version of the T03x core, using triple redundancy approach to ensure fault tolrance",
+                "homepage": null,
                 "id": 173164815,
                 "language": "VHDL",
+                "license": null,
                 "last_commit": "2024-08-24T10:56:02Z",
+                "open_issues": 0,
                 "owner": "klessydra",
                 "repo": "F03x",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -931,12 +1449,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 201784857,
                 "language": "Assembly",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-08T02:25:14Z",
+                "open_issues": 0,
                 "owner": "mballance",
                 "repo": "fwrisc-s",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -947,12 +1470,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 6-Stage RISC-V RV32IM Core on FPGA (263.7 CoreMark, 91.0 DMIPS@100MHz)",
+                "homepage": null,
                 "id": 1092715754,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-02T06:13:29Z",
+                "open_issues": 0,
                 "owner": "gws8820",
                 "repo": "RISCV-CPU",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "architecture",
+                  "branch-prediction",
+                  "coremark",
+                  "cpu",
+                  "cpu-architecture",
+                  "dhrystone",
+                  "fpga",
+                  "hdl",
+                  "microarchitecture",
+                  "riscv",
+                  "runtime",
+                  "rv32i",
+                  "rv32im",
+                  "systemverilog",
+                  "uart",
+                  "uart-programming",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -970,12 +1516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+                "homepage": null,
                 "id": 36978369,
                 "language": "Verilog",
+                "license": "ISC",
                 "last_commit": "2026-07-31T05:59:04Z",
+                "open_issues": 87,
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4365
+                "stars": 4365,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -986,12 +1537,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "32-bit RISC-V system on chip for iCE40 FPGAs",
+                "homepage": null,
                 "id": 116424584,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2023-05-25T19:26:31Z",
+                "open_issues": 7,
                 "owner": "grahamedgecombe",
                 "repo": "icicle",
-                "stars": 313
+                "stars": 313,
+                "topics": [
+                  "fpga",
+                  "ice40",
+                  "icestorm",
+                  "risc-v"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1002,12 +1563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Silicon-validated SoC implementation of the PicoSoc/PicoRV32",
+                "homepage": "https://ef.link/raven",
                 "id": 154589900,
                 "language": "Verilog",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-28T06:25:37Z",
+                "open_issues": 4,
                 "owner": "efabless",
                 "repo": "raven-picorv32",
-                "stars": 297
+                "stars": 297,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1018,12 +1584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V System on Chip Template",
+                "homepage": null,
                 "id": 243560772,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:24:15Z",
+                "open_issues": 0,
                 "owner": "IObundle",
                 "repo": "iob-soc",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1034,12 +1605,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Riscy-SoC is SoC based on RISC-V CPU core, designed in Verilog",
+                "homepage": null,
                 "id": 129797190,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2019-10-11T08:00:20Z",
+                "open_issues": 2,
                 "owner": "AleksandarKostovic",
                 "repo": "Riscy-SoC",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "risc-v",
+                  "riscy-soc",
+                  "soc",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1063,12 +1644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GNU toolchain for RISC-V, including GCC",
+                "homepage": null,
                 "id": 23780138,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T08:56:43Z",
+                "open_issues": 43,
                 "owner": "riscv-collab",
                 "repo": "riscv-gnu-toolchain",
-                "stars": 4595
+                "stars": 4595,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1079,12 +1665,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+                "homepage": "https://chipyard.readthedocs.io/en/latest/",
                 "id": 71811858,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-19T06:11:29Z",
+                "open_issues": 200,
                 "owner": "ucb-bar",
                 "repo": "chipyard",
-                "stars": 2369
+                "stars": 2369,
+                "topics": [
+                  "accelerators",
+                  "boom",
+                  "chip-generator",
+                  "chipyard",
+                  "chisel",
+                  "firesim",
+                  "hwacha",
+                  "out-of-order",
+                  "peripherals",
+                  "risc-v",
+                  "riscv",
+                  "rocket",
+                  "rocket-chip",
+                  "rtl",
+                  "soc",
+                  "superscalar"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1095,12 +1703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nextpnr portable FPGA place and route tool",
+                "homepage": null,
                 "id": 143147942,
                 "language": "C++",
+                "license": "ISC",
                 "last_commit": "2026-08-27T11:40:36Z",
+                "open_issues": 146,
                 "owner": "YosysHQ",
                 "repo": "nextpnr",
-                "stars": 1736
+                "stars": 1737,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1111,12 +1724,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source microcontroller system based on RISC-V",
+                "homepage": "http://www.pulp-platform.org",
                 "id": 52028096,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-06T11:08:38Z",
+                "open_issues": 131,
                 "owner": "pulp-platform",
                 "repo": "pulpino",
-                "stars": 1062
+                "stars": 1062,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1127,12 +1745,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Flexible Intermediate Representation for RTL",
+                "homepage": "https://www.chisel-lang.org/firrtl/",
                 "id": 30780129,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-20T18:13:34Z",
+                "open_issues": 287,
                 "owner": "chipsalliance",
                 "repo": "firrtl",
-                "stars": 747
+                "stars": 747,
+                "topics": [
+                  "compiler",
+                  "firrtl",
+                  "hardware",
+                  "intermediate",
+                  "representation",
+                  "transformation"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1143,12 +1773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The root repo for lowRISC project and FPGA demos.",
+                "homepage": "http://www.lowrisc.org/",
                 "id": 32316861,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-03T13:48:33Z",
+                "open_issues": 49,
                 "owner": "lowRISC",
                 "repo": "lowrisc-chip",
-                "stars": 601
+                "stars": 601,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1159,12 +1794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.",
+                "homepage": null,
                 "id": 120891675,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-08T12:42:11Z",
+                "open_issues": 138,
                 "owner": "pulp-platform",
                 "repo": "pulpissimo",
-                "stars": 493
+                "stars": 493,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1175,12 +1815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository provides a Linux kernel bootable on RISC-V boards from SiFive",
+                "homepage": null,
                 "id": 149265059,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-02-13T08:55:22Z",
+                "open_issues": 3,
                 "owner": "westerndigitalcorporation",
                 "repo": "RISC-V-Linux",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1191,12 +1836,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Chisel/Firrtl execution engine",
+                "homepage": null,
                 "id": 117883406,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-21T15:40:24Z",
+                "open_issues": 26,
                 "owner": "chipsalliance",
                 "repo": "treadle",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1207,12 +1857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FTPVL is a library for simplifying the data collection and visualization process for Symbiflow development. ",
+                "homepage": "https://ftpvl.readthedocs.io",
                 "id": 275901202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-18T15:09:13Z",
+                "open_issues": 0,
                 "owner": "TypingKoala",
                 "repo": "FPGA-Tool-Performance-Visualization-Library",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1230,12 +1885,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chisel: A Modern Hardware Design Language",
+                "homepage": "https://www.chisel-lang.org/",
                 "id": 34695562,
                 "language": "Scala",
-                "last_commit": "2026-08-27T22:45:24Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:06:59Z",
+                "open_issues": 510,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4764
+                "stars": 4764,
+                "topics": [
+                  "chip-generator",
+                  "chisel",
+                  "chisel3",
+                  "firrtl",
+                  "rtl",
+                  "scala",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1253,12 +1921,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.",
+                "homepage": "http://www.qemu.org",
                 "id": 5383731,
                 "language": "C",
-                "last_commit": "2026-08-27T19:54:20Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:41:20Z",
+                "open_issues": 0,
                 "owner": "qemu",
                 "repo": "qemu",
-                "stars": 13636
+                "stars": 13640,
+                "topics": [
+                  "emulation",
+                  "qemu",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1269,12 +1946,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verilator open-source SystemVerilog simulator and lint system",
+                "homepage": "https://verilator.org",
                 "id": 191842184,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-27T12:33:49Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T19:55:42Z",
+                "open_issues": 308,
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3883
+                "stars": 3884,
+                "topics": [
+                  "compilers",
+                  "cpp",
+                  "rtl",
+                  "system-verilog",
+                  "systemc",
+                  "verilator",
+                  "verilog",
+                  "verilog-simulator"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1285,12 +1976,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A graphical processor simulator and assembly editor for the RISC-V ISA",
+                "homepage": "http://ripes.dk/",
                 "id": 108505982,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-18T12:48:42Z",
+                "open_issues": 88,
                 "owner": "mortbopet",
                 "repo": "Ripes",
-                "stars": 3389
+                "stars": 3390,
+                "topics": [
+                  "computer-architecture",
+                  "cpu-emulator",
+                  "education",
+                  "processor-architecture",
+                  "qt",
+                  "risc",
+                  "risc-v",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1301,12 +2006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spike, a RISC-V ISA Simulator",
+                "homepage": "https://riscv.atlassian.net/browse/RVG-476",
                 "id": 2276287,
                 "language": "C",
-                "last_commit": "2026-08-27T23:12:29Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:03:20Z",
+                "open_issues": 402,
                 "owner": "riscv-software-src",
                 "repo": "riscv-isa-sim",
-                "stars": 3208
+                "stars": 3208,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1317,12 +2027,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems",
+                "homepage": "https://renode.io",
                 "id": 95903234,
                 "language": "RobotFramework",
-                "last_commit": "2026-08-27T12:38:44Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:08:29Z",
+                "open_issues": 429,
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2786
+                "stars": 2790,
+                "topics": [
+                  "arm",
+                  "embedded-systems",
+                  "iot",
+                  "renode",
+                  "risc-v",
+                  "simulation",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1333,12 +2056,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository for the gem5 computer-system architecture simulator.",
+                "homepage": "http://www.gem5.org",
                 "id": 27425638,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T01:57:00Z",
+                "open_issues": 205,
                 "owner": "gem5",
                 "repo": "gem5",
-                "stars": 2774
+                "stars": 2776,
+                "topics": [
+                  "architecture",
+                  "arm",
+                  "modeling",
+                  "open-source",
+                  "risc-v",
+                  "simulation",
+                  "simulator",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1349,12 +2086,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RARS -- RISC-V Assembler and Runtime Simulator",
+                "homepage": null,
                 "id": 92457409,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-19T16:46:44Z",
+                "open_issues": 76,
                 "owner": "TheThirdOne",
                 "repo": "rars",
-                "stars": 1618
+                "stars": 1619,
+                "topics": [
+                  "assembler",
+                  "education",
+                  "ide",
+                  "mars",
+                  "risc-v",
+                  "riscv",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1365,12 +2115,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package manager and build abstraction tool for FPGA/ASIC development",
+                "homepage": null,
                 "id": 16964283,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T12:37:32Z",
+                "open_issues": 153,
                 "owner": "olofk",
                 "repo": "fusesoc",
-                "stars": 1453
+                "stars": 1453,
+                "topics": [
+                  "eda",
+                  "fpga",
+                  "package-manager",
+                  "python",
+                  "reuse",
+                  "verilog",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1381,12 +2144,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility",
+                "homepage": "https://fires.im",
                 "id": 133268556,
                 "language": "Scala",
-                "last_commit": "2026-08-28T01:13:17Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:27:00Z",
+                "open_issues": 239,
                 "owner": "firesim",
                 "repo": "firesim",
-                "stars": 1037
+                "stars": 1037,
+                "topics": [
+                  "boom",
+                  "cloud",
+                  "datacenter",
+                  "firesim",
+                  "fpga",
+                  "hardware",
+                  "on-prem",
+                  "risc-v",
+                  "rocket-chip",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1397,12 +2176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V RV64GC emulator designed for RTL co-simulation",
+                "homepage": null,
                 "id": 221806406,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-20T17:05:17Z",
+                "open_issues": 26,
                 "owner": "chipsalliance",
                 "repo": "dromajo",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1413,12 +2197,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Western Digital’s Open Source RISC-V SweRV Instruction Set Simulator",
+                "homepage": null,
                 "id": 159609276,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-03T00:30:29Z",
+                "open_issues": 2,
                 "owner": "westerndigitalcorporation",
                 "repo": "swerv-ISS",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1429,12 +2218,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebRISC-V: A Web-Based Education-Oriented RISC-V Pipeline Simulation Environment [PHP]",
+                "homepage": "https://webriscv.altervista.org",
                 "id": 209991250,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-25T18:49:37Z",
+                "open_issues": 5,
                 "owner": "Mariotti94",
                 "repo": "WebRISC-V",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "assembly",
+                  "computer-architecture",
+                  "education",
+                  "php",
+                  "pipeline",
+                  "pipeline-simulation-environment",
+                  "processor-architecture",
+                  "risc",
+                  "risc-v",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1445,12 +2250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FireSim-NVDLA: NVIDIA Deep Learning Accelerator (NVDLA) Integrated with RISC-V Rocket Chip SoC Running on the Amazon FPGA Cloud",
+                "homepage": null,
                 "id": 166863012,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-16T15:40:44Z",
+                "open_issues": 20,
                 "owner": "CSL-KU",
                 "repo": "firesim-nvdla",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1461,12 +2271,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDK for Greenwaves Technologies' GAP8 IoT Application Processor",
+                "homepage": "https://greenwaves-technologies.com/en/gap8-the-internet-of-things-iot-application-processor/",
                 "id": 133324605,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-31T08:31:25Z",
+                "open_issues": 75,
                 "owner": "GreenWaves-Technologies",
                 "repo": "gap_sdk",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "gap-sdk",
+                  "gap8",
+                  "iot-platform",
+                  "microprocessor",
+                  "processor",
+                  "pulp",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1477,12 +2300,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fast TLB simulator for RISC-V systems",
+                "homepage": null,
                 "id": 178586714,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-05-16T13:55:49Z",
+                "open_issues": 0,
                 "owner": "nbdd0121",
                 "repo": "TLBSim",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1493,12 +2321,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Instructions to import Ubuntu guest Virtual Machine for RISC-V development for the VEGA board",
+                "homepage": null,
                 "id": 206841504,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-16T11:57:54Z",
+                "open_issues": 9,
                 "owner": "openhwgroup",
                 "repo": "riscv_vm",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1516,12 +2349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Random instruction generator for RISC-V processor verification",
+                "homepage": null,
                 "id": 167140400,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-03T15:17:27Z",
+                "open_issues": 166,
                 "owner": "chipsalliance",
                 "repo": "riscv-dv",
-                "stars": 1350
+                "stars": 1350,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1532,12 +2370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://riscv.atlassian.net/browse/RVG-476",
                 "id": 9642428,
                 "language": "Assembly",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T22:09:19Z",
+                "open_issues": 144,
                 "owner": "riscv-software-src",
                 "repo": "riscv-tests",
-                "stars": 1238
+                "stars": 1238,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1548,12 +2391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V Formal Verification Framework",
+                "homepage": null,
                 "id": 74998636,
                 "language": "Verilog",
+                "license": "ISC",
                 "last_commit": "2022-04-06T01:24:21Z",
+                "open_issues": 23,
                 "owner": "SymbioticEDA",
                 "repo": "riscv-formal",
-                "stars": 634
+                "stars": 634,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1564,12 +2412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V Torture Test",
+                "homepage": null,
                 "id": 3277860,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2024-07-11T16:02:31Z",
+                "open_issues": 14,
                 "owner": "ucb-bar",
                 "repo": "riscv-torture",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1580,12 +2433,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 270950839,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T22:06:15Z",
+                "open_issues": 1,
                 "owner": "chipsalliance",
                 "repo": "uvm-verilator",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1596,12 +2454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides various testers for chisel users",
+                "homepage": null,
                 "id": 51389614,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-12T06:58:30Z",
+                "open_issues": 55,
                 "owner": "freechipsproject",
                 "repo": "chisel-testers",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1612,12 +2475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof of concepts for speculative attacks using the BOOM core (https://github.com/riscv-boom/riscv-boom)",
+                "homepage": null,
                 "id": 152512183,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-18T16:36:00Z",
+                "open_issues": 3,
                 "owner": "riscv-boom",
                 "repo": "boom-attacks",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1628,12 +2496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Consistency checker for memory subsystem traces",
+                "homepage": null,
                 "id": 50184358,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2016-10-10T19:02:39Z",
+                "open_issues": 0,
                 "owner": "CTSRD-CHERI",
                 "repo": "axe",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1657,12 +2530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of notes related to RISC-V before they are processed and digested",
+                "homepage": null,
                 "id": 98880700,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-19T04:00:03Z",
+                "open_issues": 0,
                 "owner": "cnrv",
                 "repo": "riscv-notes",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1680,12 +2558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V Instruction Set Manual",
+                "homepage": "https://riscv.github.io/riscv-isa-manual/",
                 "id": 80689539,
                 "language": "TeX",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-26T18:53:06Z",
+                "open_issues": 177,
                 "owner": "riscv",
                 "repo": "riscv-isa-manual",
-                "stars": 4789
+                "stars": 4789,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1696,12 +2579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digital Design with Chisel",
+                "homepage": null,
                 "id": 48636631,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2026-07-21T11:10:15Z",
+                "open_issues": 7,
                 "owner": "schoeberl",
                 "repo": "chisel-book",
-                "stars": 929
+                "stars": 929,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1712,12 +2600,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V Assembly Language Programming",
+                "homepage": null,
                 "id": 129527106,
                 "language": "TeX",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-07-28T22:26:22Z",
+                "open_issues": 3,
                 "owner": "johnwinans",
                 "repo": "rvalp",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "assembly",
+                  "risc-v"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1735,12 +2631,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A graphical processor simulator and assembly editor for the RISC-V ISA",
+                "homepage": "http://ripes.dk/",
                 "id": 108505982,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-18T12:48:42Z",
+                "open_issues": 88,
                 "owner": "mortbopet",
                 "repo": "Ripes",
-                "stars": 3389
+                "stars": 3390,
+                "topics": [
+                  "computer-architecture",
+                  "cpu-emulator",
+                  "education",
+                  "processor-architecture",
+                  "qt",
+                  "risc",
+                  "risc-v",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1751,12 +2661,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "F# RISC-V Instruction Set formal specification",
+                "homepage": null,
                 "id": 205041674,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2026-06-12T09:00:09Z",
+                "open_issues": 0,
                 "owner": "mrLSD",
                 "repo": "riscv-fs",
-                "stars": 290
+                "stars": 290,
+                "topics": [
+                  "cpu",
+                  "fs",
+                  "fsharp",
+                  "isa",
+                  "library",
+                  "risc-processor",
+                  "risc-v",
+                  "riscv",
+                  "riscv-emulator",
+                  "riscv-simulator",
+                  "riscv32",
+                  "riscv64"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1767,12 +2695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chisel Cheatsheet",
+                "homepage": null,
                 "id": 190158730,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-13T21:29:07Z",
+                "open_issues": 1,
                 "owner": "freechipsproject",
                 "repo": "chisel-cheatsheet",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1790,12 +2723,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chisel: A Modern Hardware Design Language",
+                "homepage": "https://www.chisel-lang.org/",
                 "id": 34695562,
                 "language": "Scala",
-                "last_commit": "2026-08-27T22:45:24Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:06:59Z",
+                "open_issues": 510,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4764
+                "stars": 4764,
+                "topics": [
+                  "chip-generator",
+                  "chisel",
+                  "chisel3",
+                  "firrtl",
+                  "rtl",
+                  "scala",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1806,12 +2752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generator Bootcamp Material: Learn Chisel the Right Way",
+                "homepage": null,
                 "id": 98464044,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-10T16:55:03Z",
+                "open_issues": 56,
                 "owner": "freechipsproject",
                 "repo": "chisel-bootcamp",
-                "stars": 1150
+                "stars": 1150,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1822,12 +2773,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Comment on the rocket-chip source code",
+                "homepage": null,
                 "id": 83734362,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-10-19T04:03:39Z",
+                "open_issues": 2,
                 "owner": "cnrv",
                 "repo": "rocket-chip-read",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1838,12 +2794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chisel Learning Journey",
+                "homepage": null,
                 "id": 118227489,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-05T07:58:54Z",
+                "open_issues": 4,
                 "owner": "Intensivate",
                 "repo": "learning-journey",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1854,12 +2815,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "educational microarchitectures for risc-v isa",
+                "homepage": null,
                 "id": 91600352,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2019-02-18T14:46:32Z",
+                "open_issues": 5,
                 "owner": "librecores",
                 "repo": "riscv-sodor",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "arty",
+                  "chisel3",
+                  "firrtl",
+                  "librecores",
+                  "pynq-z1",
+                  "riscv",
+                  "scala",
+                  "tilelink"
+                ]
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             },
@@ -1870,12 +2845,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "5 days (30 hours) is all what took me to learn the basics and design a pipelined RV32I core. Check this article to know more !",
+                "homepage": null,
                 "id": 293096797,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-02-02T16:59:24Z",
+                "open_issues": 0,
                 "owner": "iamrk-vlsi",
                 "repo": "RISC-V-MYTH-Workshop",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
             }
@@ -1889,15 +2869,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:23:57.601Z",
+    "last_updated": "2026-08-29T04:45:30.900Z",
     "original_repository_info": {
       "archived": false,
+      "description": "RISC-V: Open-source instruction set architecture based on reduced instruction set computer principles.",
+      "homepage": null,
       "id": 293227965,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-02T04:33:48Z",
+      "open_issues": 3,
       "owner": "suryakantamangaraj",
       "repo": "awesome-riscv",
-      "stars": 383
+      "stars": 384,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-architecture",
+        "cpu-design",
+        "electronics",
+        "fpga",
+        "hardware",
+        "isa",
+        "open-source-hardware",
+        "risc-v",
+        "riscv",
+        "verilog",
+        "vhdl"
+      ]
     },
     "original_repository_sha": "e50eabb894114e280fd2274b402361666eb4d2ad",
     "enhanced_repository": "enhansome/enhansome-riscv",
