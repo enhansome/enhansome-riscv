@@ -53,11 +53,11 @@
                 "id": 271929004,
                 "language": "Scala",
                 "license": "MulanPSL-2.0",
-                "last_commit": "2026-10-03T01:49:49Z",
+                "last_commit": "2026-10-03T15:17:07Z",
                 "open_issues": 304,
                 "owner": "OpenXiangShan",
                 "repo": "XiangShan",
-                "stars": 7289,
+                "stars": 7290,
                 "topics": [
                   "chisel",
                   "microarchitecture",
@@ -82,7 +82,7 @@
                 "open_issues": 86,
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4388,
+                "stars": 4389,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -128,10 +128,10 @@
                 "language": "Assembly",
                 "license": "MIT",
                 "last_commit": "2026-09-27T22:10:01Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "SpinalHDL",
                 "repo": "VexRiscv",
-                "stars": 3282,
+                "stars": 3283,
                 "topics": [
                   "cpu",
                   "fpga",
@@ -157,11 +157,11 @@
                 "id": 118652371,
                 "language": "Assembly",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T23:06:04Z",
-                "open_issues": 270,
+                "last_commit": "2026-10-03T23:52:40Z",
+                "open_issues": 271,
                 "owner": "openhwfoundation",
                 "repo": "cva6",
-                "stars": 3142,
+                "stars": 3143,
                 "topics": [
                   "ariane",
                   "asic",
@@ -219,7 +219,7 @@
                 "open_issues": 5,
                 "owner": "darklife",
                 "repo": "darkriscv",
-                "stars": 2619,
+                "stars": 2620,
                 "topics": [
                   "core",
                   "fpga",
@@ -242,7 +242,7 @@
                 "id": 274442284,
                 "language": "VHDL",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T04:09:29Z",
+                "last_commit": "2026-10-04T05:08:30Z",
                 "open_issues": 12,
                 "owner": "stnolting",
                 "repo": "neorv32",
@@ -278,7 +278,7 @@
                 "open_issues": 179,
                 "owner": "riscv-boom",
                 "repo": "riscv-boom",
-                "stars": 2253,
+                "stars": 2254,
                 "topics": [
                   "berkeley",
                   "boom",
@@ -308,7 +308,7 @@
                 "open_issues": 270,
                 "owner": "lowRISC",
                 "repo": "ibex",
-                "stars": 2078,
+                "stars": 2077,
                 "topics": [
                   "cpucore",
                   "hardware",
@@ -463,7 +463,7 @@
                 "id": 227267635,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T06:52:02Z",
+                "last_commit": "2026-10-03T07:13:29Z",
                 "open_issues": 38,
                 "owner": "rsd-devel",
                 "repo": "rsd",
@@ -541,7 +541,7 @@
                 "open_issues": 29,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH1",
-                "stars": 971,
+                "stars": 972,
                 "topics": [
                   "ahb-lite",
                   "asic-design",
@@ -601,7 +601,7 @@
                 "id": 159356599,
                 "language": "Sail",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T02:03:38Z",
+                "last_commit": "2026-10-04T01:20:48Z",
                 "open_issues": 229,
                 "owner": "riscv",
                 "repo": "sail-riscv",
@@ -626,7 +626,7 @@
                 "open_issues": 15,
                 "owner": "ucb-bar",
                 "repo": "riscv-sodor",
-                "stars": 758,
+                "stars": 759,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -643,8 +643,8 @@
                 "id": 329806615,
                 "language": "SystemVerilog",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T16:35:08Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-03T15:41:34Z",
+                "open_issues": 38,
                 "owner": "openhwfoundation",
                 "repo": "cvw",
                 "stars": 640,
@@ -736,7 +736,7 @@
                 "id": 232916517,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:37:23Z",
+                "last_commit": "2026-10-03T10:18:50Z",
                 "open_issues": 56,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
@@ -772,7 +772,7 @@
                 "id": 232916517,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:37:23Z",
+                "last_commit": "2026-10-03T10:18:50Z",
                 "open_issues": 56,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
@@ -833,7 +833,7 @@
                 "open_issues": 16,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH2",
-                "stars": 279,
+                "stars": 280,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -1525,7 +1525,7 @@
                 "open_issues": 86,
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4388,
+                "stars": 4389,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -1650,7 +1650,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T08:56:43Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "riscv-collab",
                 "repo": "riscv-gnu-toolchain",
                 "stars": 4634,
@@ -1674,7 +1674,7 @@
                 "open_issues": 203,
                 "owner": "ucb-bar",
                 "repo": "chipyard",
-                "stars": 2411,
+                "stars": 2412,
                 "topics": [
                   "accelerators",
                   "boom",
@@ -1712,7 +1712,7 @@
                 "open_issues": 141,
                 "owner": "YosysHQ",
                 "repo": "nextpnr",
-                "stars": 1763,
+                "stars": 1765,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -1890,11 +1890,11 @@
                 "id": 34695562,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:56:14Z",
+                "last_commit": "2026-10-03T18:08:00Z",
                 "open_issues": 508,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4803,
+                "stars": 4804,
                 "topics": [
                   "chip-generator",
                   "chisel",
@@ -1926,11 +1926,11 @@
                 "id": 5383731,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T06:56:47Z",
+                "last_commit": "2026-10-03T12:18:04Z",
                 "open_issues": 0,
                 "owner": "qemu",
                 "repo": "qemu",
-                "stars": 13811,
+                "stars": 13813,
                 "topics": [
                   "emulation",
                   "qemu",
@@ -1951,11 +1951,11 @@
                 "id": 191842184,
                 "language": "SystemVerilog",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:19:11Z",
-                "open_issues": 333,
+                "last_commit": "2026-10-03T16:37:32Z",
+                "open_issues": 332,
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3980,
+                "stars": 3985,
                 "topics": [
                   "compilers",
                   "cpp",
@@ -2015,7 +2015,7 @@
                 "open_issues": 411,
                 "owner": "riscv-software-src",
                 "repo": "riscv-isa-sim",
-                "stars": 3239,
+                "stars": 3240,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -2033,10 +2033,10 @@
                 "language": "RobotFramework",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T15:23:08Z",
-                "open_issues": 467,
+                "open_issues": 468,
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2970,
+                "stars": 2974,
                 "topics": [
                   "arm",
                   "embedded-systems",
@@ -2062,10 +2062,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T22:24:09Z",
-                "open_issues": 199,
+                "open_issues": 200,
                 "owner": "gem5",
                 "repo": "gem5",
-                "stars": 2846,
+                "stars": 2850,
                 "topics": [
                   "architecture",
                   "arm",
@@ -2379,7 +2379,7 @@
                 "open_issues": 144,
                 "owner": "riscv-software-src",
                 "repo": "riscv-tests",
-                "stars": 1246,
+                "stars": 1247,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -2567,7 +2567,7 @@
                 "open_issues": 188,
                 "owner": "riscv",
                 "repo": "riscv-isa-manual",
-                "stars": 4841,
+                "stars": 4844,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -2728,11 +2728,11 @@
                 "id": 34695562,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:56:14Z",
+                "last_commit": "2026-10-03T18:08:00Z",
                 "open_issues": 508,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4803,
+                "stars": 4804,
                 "topics": [
                   "chip-generator",
                   "chisel",
@@ -2761,7 +2761,7 @@
                 "open_issues": 56,
                 "owner": "freechipsproject",
                 "repo": "chisel-bootcamp",
-                "stars": 1163,
+                "stars": 1164,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -2869,7 +2869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:07:46.609Z",
+    "last_updated": "2026-10-04T07:26:45.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "RISC-V: Open-source instruction set architecture based on reduced instruction set computer principles.",
@@ -2878,7 +2878,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-02T04:33:48Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "suryakantamangaraj",
       "repo": "awesome-riscv",
       "stars": 391,
