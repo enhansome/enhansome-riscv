@@ -82,7 +82,7 @@
                 "open_issues": 86,
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4389,
+                "stars": 4390,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -304,11 +304,11 @@
                 "id": 99689233,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T07:41:38Z",
+                "last_commit": "2026-10-06T08:52:34Z",
                 "open_issues": 270,
                 "owner": "lowRISC",
                 "repo": "ibex",
-                "stars": 2078,
+                "stars": 2079,
                 "topics": [
                   "cpucore",
                   "hardware",
@@ -467,7 +467,7 @@
                 "open_issues": 38,
                 "owner": "rsd-devel",
                 "repo": "rsd",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -605,7 +605,7 @@
                 "open_issues": 230,
                 "owner": "riscv",
                 "repo": "sail-riscv",
-                "stars": 778,
+                "stars": 779,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -829,8 +829,8 @@
                 "id": 232916099,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T09:24:31Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-06T08:34:40Z",
+                "open_issues": 15,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH2",
                 "stars": 280,
@@ -1525,7 +1525,7 @@
                 "open_issues": 86,
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4389,
+                "stars": 4390,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:57.601Z"
@@ -1709,7 +1709,7 @@
                 "language": "C++",
                 "license": "ISC",
                 "last_commit": "2026-10-06T07:27:33Z",
-                "open_issues": 143,
+                "open_issues": 144,
                 "owner": "YosysHQ",
                 "repo": "nextpnr",
                 "stars": 1766,
@@ -1926,7 +1926,7 @@
                 "id": 5383731,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T17:45:53Z",
+                "last_commit": "2026-10-06T09:32:02Z",
                 "open_issues": 0,
                 "owner": "qemu",
                 "repo": "qemu",
@@ -2032,11 +2032,11 @@
                 "id": 95903234,
                 "language": "RobotFramework",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T05:45:12Z",
-                "open_issues": 467,
+                "last_commit": "2026-10-06T10:28:59Z",
+                "open_issues": 466,
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2982,
+                "stars": 2983,
                 "topics": [
                   "arm",
                   "embedded-systems",
@@ -2062,7 +2062,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-05T20:48:12Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "gem5",
                 "repo": "gem5",
                 "stars": 2851,
@@ -2564,7 +2564,7 @@
                 "language": "TeX",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-06T03:03:21Z",
-                "open_issues": 184,
+                "open_issues": 183,
                 "owner": "riscv",
                 "repo": "riscv-isa-manual",
                 "stars": 4845,
@@ -2869,7 +2869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:10:27.841Z",
+    "last_updated": "2026-10-06T10:33:01.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "RISC-V: Open-source instruction set architecture based on reduced instruction set computer principles.",

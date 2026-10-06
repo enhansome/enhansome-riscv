@@ -50,18 +50,18 @@ Open source RISC-V cores with proper documentation.
 * [DarkRISCV](https://github.com/darklife/darkriscv) ⭐ 2,621 | 🐛 5 | 🌐 Verilog | 📅 2026-09-04 - Experimental RISC-V implementation in Verilog, fitting in a small FPGA.
 * [NEORV32](https://github.com/stnolting/neorv32) ⭐ 2,284 | 🐛 12 | 🌐 VHDL | 📅 2026-10-04 - Customizable, extensible MCU-class 32-bit soft-core CPU and SoC written in VHDL.
 * [BOOM](https://github.com/riscv-boom/riscv-boom) ⭐ 2,256 | 🐛 179 | 🌐 Scala | 📅 2026-09-11 - Berkeley Out-of-Order RISC-V Processor.
-* [Ibex](https://github.com/lowRISC/ibex) ⭐ 2,078 | 🐛 270 | 🌐 SystemVerilog | 📅 2026-10-06 - Small, 32-bit RISC-V core from lowRISC, formally verified and production-proven.
+* [Ibex](https://github.com/lowRISC/ibex) ⭐ 2,079 | 🐛 270 | 🌐 SystemVerilog | 📅 2026-10-06 - Small, 32-bit RISC-V core from lowRISC, formally verified and production-proven.
 * [SERV](https://github.com/olofk/serv) ⭐ 1,898 | 🐛 36 | 🌐 Verilog | 📅 2026-08-25 - Award-winning ultra-compact bit-serial RISC-V core.
 * [NutShell](https://github.com/OSCPU/NutShell) ⭐ 1,560 | 🐛 83 | 🌐 Scala | 📅 2026-09-22 - RISC-V processor developed by the University of Chinese Academy of Sciences.
 * [Tiny Risc-V](https://github.com/liangkangnan/tinyriscv) ⭐ 1,541 | 🐛 16 | 🌐 C | 📅 2023-11-09 - Easy-to-understand, from-scratch RISC-V implementation written in Verilog.
 * [biRISC-V](https://github.com/ultraembedded/biriscv) ⭐ 1,313 | 🐛 36 | 🌐 Verilog | 📅 2021-09-18 - 32-bit dual-issue in-order RISC-V CPU.
 * [CV32E40P](https://github.com/openhwgroup/cv32e40p) ⭐ 1,307 | 🐛 78 | 🌐 SystemVerilog | 📅 2026-10-01 - OpenHW Group CORE-V CV32E40P RISC-V IP.
-* [RSD](https://github.com/rsd-devel/rsd) ⭐ 1,209 | 🐛 38 | 🌐 SystemVerilog | 📅 2026-10-03 - Out-of-order superscalar RISC-V processor written in SystemVerilog.
+* [RSD](https://github.com/rsd-devel/rsd) ⭐ 1,210 | 🐛 38 | 🌐 SystemVerilog | 📅 2026-10-03 - Out-of-order superscalar RISC-V processor written in SystemVerilog.
 * [Freedom](https://github.com/sifive/freedom) ⚠️ Archived - By SiFive for its Freedom E300 and U500 platforms.
 * [SCR1](https://github.com/syntacore/scr1) ⭐ 1,006 | 🐛 3 | 🌐 SystemVerilog | 📅 2024-11-15 - Free and open-source MCU-class RISC-V core from Syntacore.
 * [SweRV](https://github.com/chipsalliance/Cores-SweRV) ⭐ 971 | 🐛 29 | 🌐 SystemVerilog | 📅 2026-07-16 - EH1 SweRV RISC-V CoreTM 1.8 from Western Digital.
 * [OpenPiton](https://github.com/PrincetonUniversity/openpiton) ⭐ 831 | 🐛 61 | 🌐 Assembly | 📅 2026-02-25 - World's first open source, general purpose, multithreaded manycore processor.
-* [Sail RISC-V](https://github.com/rems-project/sail-riscv) ⭐ 778 | 🐛 230 | 🌐 Sail | 📅 2026-10-06 - RISCV Sail Model.
+* [Sail RISC-V](https://github.com/rems-project/sail-riscv) ⭐ 779 | 🐛 230 | 🌐 Sail | 📅 2026-10-06 - RISCV Sail Model.
 * [Sodor](https://github.com/ucb-bar/riscv-sodor) ⭐ 759 | 🐛 15 | 🌐 Scala | 📅 2025-09-01 - Educational collection of simple RISC-V processors written in Chisel by UC Berkeley.
 * [Wally (CVW)](https://github.com/openhwgroup/cvw) ⭐ 640 | 🐛 53 | 🌐 SystemVerilog | 📅 2026-10-03 - CORE-V Wally: a configurable, 5-stage-pipeline RISC-V processor associated with the *RISC-V System-on-Chip Design* textbook by Harris et al.
 * [riscv-mini](https://github.com/ucb-bar/riscv-mini) ⚠️ Archived - Simple three-stage RISC-V pipeline written in Chisel.
@@ -70,7 +70,7 @@ Open source RISC-V cores with proper documentation.
 * [SweRV EL2](https://github.com/chipsalliance/Cores-SweRV-EL2) ⭐ 345 | 🐛 56 | 🌐 SystemVerilog | 📅 2026-10-05 - EL2 SweRV RISC-V CoreTM 1.2 from Western Digital.
 * [VeeR EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) ⭐ 345 | 🐛 56 | 🌐 SystemVerilog | 📅 2026-10-05 - CHIPS Alliance VeeR EL2 RISC-V Core; the actively maintained successor to the Western Digital SweRV family.
 * [Minerva](https://github.com/lambdaconcept/minerva) ⭐ 328 | 🐛 3 | 🌐 Python | 📅 2026-01-26 - 32-bit RISC-V soft processor.
-* [SweRV EH2](https://github.com/chipsalliance/Cores-SweRV-EH2) ⭐ 280 | 🐛 16 | 🌐 SystemVerilog | 📅 2026-09-28 - EH2 SweRV RISC-V CoreTM 1.2 from Western Digital.
+* [SweRV EH2](https://github.com/chipsalliance/Cores-SweRV-EH2) ⭐ 280 | 🐛 15 | 🌐 SystemVerilog | 📅 2026-10-06 - EH2 SweRV RISC-V CoreTM 1.2 from Western Digital.
 * [WARP-V](https://github.com/stevehoover/warp-v) ⭐ 257 | 🐛 16 | 🌐 TL-Verilog | 📅 2026-09-24 - Open-source RISC-V core IP you can shape to your needs.
 * [SSRV](https://github.com/risclite/SuperScalar-RISCV-CPU) ⭐ 239 | 🐛 3 | 🌐 SystemVerilog | 📅 2020-08-25 - SuperScalar-RISCV-CPU.
 * [Steel](https://github.com/rafaelcalcada/steel-core) ⭐ 203 | 🐛 1 | 🌐 Verilog | 📅 2026-09-23 - Simple, 32-bit RISC-V processor core designed to be easily embedded into SoCs.
@@ -123,7 +123,7 @@ Open source toolchains for designing and developing RISC-V systems.
 
 * [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain) ⭐ 4,634 | 🐛 46 | 🌐 C | 📅 2026-08-27 - RISC-V GNU Compiler Toolchain.
 * [Chipyard](https://github.com/ucb-bar/chipyard) ⭐ 2,414 | 🐛 202 | 🌐 Scala | 📅 2026-10-05 - Framework for agile development of Chisel-based systems-on-chip.
-* [nextpnr](https://github.com/YosysHQ/nextpnr) ⭐ 1,766 | 🐛 143 | 🌐 C++ | 📅 2026-10-06 - Portable FPGA place and route tool.
+* [nextpnr](https://github.com/YosysHQ/nextpnr) ⭐ 1,766 | 🐛 144 | 🌐 C++ | 📅 2026-10-06 - Portable FPGA place and route tool.
 * [PULPino](https://github.com/pulp-platform/pulpino) ⭐ 1,069 | 🐛 130 | 🌐 C | 📅 2024-02-06 - Single-core microcontroller system, based on 32-bit RISC-V cores.
 * [Firrtl](https://github.com/freechipsproject/firrtl) ⚠️ Archived - Flexible Internal Representation for RTL.
 * [LowRISC Chip](https://github.com/lowRISC/lowrisc-chip) ⭐ 601 | 🐛 49 | 🌐 SystemVerilog | 📅 2023-08-03 - lowRISC SoC platform built on the Rocket RISC-V core.
@@ -142,12 +142,12 @@ Open source toolchains for designing and developing RISC-V systems.
 
 Open source Emulators and Simulators for designing and testing RISC-V systems.
 
-* [QEMU](https://github.com/qemu/qemu) ⭐ 13,820 | 🐛 0 | 🌐 C | 📅 2026-10-05 - The leading open-source machine emulator and virtualizer; supports both RV32 and RV64 system and user-mode emulation.
+* [QEMU](https://github.com/qemu/qemu) ⭐ 13,820 | 🐛 0 | 🌐 C | 📅 2026-10-06 - The leading open-source machine emulator and virtualizer; supports both RV32 and RV64 system and user-mode emulation.
 * [Verilator](https://github.com/verilator/verilator) ⭐ 3,984 | 🐛 332 | 🌐 SystemVerilog | 📅 2026-10-06 - Fastest Verilog/SystemVerilog simulator.
 * [Ripes](https://github.com/mortbopet/Ripes) ⭐ 3,442 | 🐛 90 | 🌐 C++ | 📅 2026-08-18 - Visual computer architecture simulator and assembly code editor.
 * [Spike](https://github.com/riscv/riscv-isa-sim/) ⭐ 3,239 | 🐛 409 | 🌐 C | 📅 2026-10-06 - RISC-V ISA Simulator.
-* [Renode](https://github.com/renode/renode) ⭐ 2,982 | 🐛 467 | 🌐 RobotFramework | 📅 2026-10-06 - Antmicro's open-source simulation framework with excellent RISC-V support; ideal for embedded and multi-core prototyping.
-* [gem5](https://github.com/gem5/gem5) ⭐ 2,851 | 🐛 220 | 🌐 C++ | 📅 2026-10-05 - The gem5 computer-system architecture simulator; widely used in academia for RISC-V microarchitecture research.
+* [Renode](https://github.com/renode/renode) ⭐ 2,983 | 🐛 466 | 🌐 RobotFramework | 📅 2026-10-06 - Antmicro's open-source simulation framework with excellent RISC-V support; ideal for embedded and multi-core prototyping.
+* [gem5](https://github.com/gem5/gem5) ⭐ 2,851 | 🐛 221 | 🌐 C++ | 📅 2026-10-05 - The gem5 computer-system architecture simulator; widely used in academia for RISC-V microarchitecture research.
 * [RARS](https://github.com/TheThirdOne/rars) ⭐ 1,650 | 🐛 77 | 🌐 Java | 📅 2024-07-19 - RISC-V Assembler and Runtime Simulator.
 * [FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,469 | 🐛 155 | 🌐 Python | 📅 2026-09-25 - Award-winning package manager and build tool set for HDL projects.
 * [FireSim](https://github.com/firesim/firesim) ⭐ 1,043 | 🐛 237 | 🌐 Scala | 📅 2026-10-05 - Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation.
@@ -210,7 +210,7 @@ Resources to help you make your own designs.
 
 ### Books
 
-* [RISC-V ISA Specification Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,845 | 🐛 184 | 🌐 TeX | 📅 2026-10-06 - The official, open-source RISC-V Instruction Set Manual (Volumes I & II); the definitive reference for the unprivileged and privileged ISA.
+* [RISC-V ISA Specification Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,845 | 🐛 183 | 🌐 TeX | 📅 2026-10-06 - The official, open-source RISC-V Instruction Set Manual (Volumes I & II); the definitive reference for the unprivileged and privileged ISA.
 * [Digital Design with Chisel](https://github.com/schoeberl/chisel-book) ⭐ 939 | 🐛 7 | 🌐 TeX | 📅 2026-10-05 - Open-source textbook on hardware design using Chisel, with free PDF available.
 * [RISC-V Assembly Language Programming](https://github.com/johnwinans/rvalp) ⭐ 250 | 🐛 3 | 🌐 TeX | 📅 2026-07-28 - Free, open-source textbook (with PDF releases) covering RV32I assembly from first principles; actively maintained by John Winans.
 
